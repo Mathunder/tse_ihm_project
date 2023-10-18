@@ -7,7 +7,7 @@
 /bazel-out
 
 # Node
-/node_modules
+front-end-app/node_modules
 npm-debug.log
 yarn-error.log
 
@@ -21,7 +21,7 @@ yarn-error.log
 *.sublime-workspace
 
 # Visual Studio Code
-/.vscode
+front-end-app/.vscode
 .history/*
 
 # Miscellaneous
