@@ -1,6 +1,7 @@
 # ihm_project
 
 This repository is a school assignement.
+This project is realised by Matthieu D'Hoop and Clément Dauriat.
 
 ## Subject
 
