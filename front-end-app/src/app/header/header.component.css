@@ -1,0 +1,20 @@
+header {
+    text-align: center;
+    background-color: #f2d429;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+a {
+    margin: 0 10px;
+    color: #000000;
+    text-decoration: none;
+    &:hover {
+        text-decoration: underline overline;
+    }
+}
+
+a.active {
+    color: #ffffff;
+    text-decoration: none;
+}
