@@ -2,10 +2,18 @@ import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { TestComponentComponent } from './test-component/test-component.component';
 import { AccueilComponent } from './accueil/accueil.component';
+import { ProductsListComponent } from './products-list/products-list.component';
+import { UsersListComponent } from './users-list/users-list.component';
+import { OrdersListComponent } from './orders-list/orders-list.component';
+import { ContactFormComponent } from './contact-form/contact-form.component';
 
 const routes: Routes = [
   { path: '', component: AccueilComponent},
-  { path: 'test', component: TestComponentComponent}
+  { path: 'test', component: TestComponentComponent},
+  { path: 'catalogue', component: ProductsListComponent},
+  { path: 'vendeurs', component: UsersListComponent},
+  {path: 'mescommandes', component: OrdersListComponent},
+  {path: 'contact', component: ContactFormComponent}
 ];
 
 @NgModule({
