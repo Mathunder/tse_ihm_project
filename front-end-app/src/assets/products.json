@@ -1,4 +1,5 @@
 [
+
 	{
 		"name": "Casque sans fil",
 		"brand": "Sauny",
@@ -21,6 +22,206 @@
 		"id": 3,
 		"category": "PC & gaming",
 		"price": 199,
+		"currency": "€"
+	},
+	{
+		"name": "Smartphone",
+		"brand": "Pear",
+		"id": 4,
+		"category": "Téléphones",
+		"price": 599,
+		"currency": "€"
+	},
+	{
+		"name": "Livres pour enfants",
+		"brand": "Jachette",
+		"id": 5,
+		"category": "Livres",
+		"price": 19,
+		"currency": "€"
+	},
+	{
+		"name": "Tablette graphique",
+		"brand": "Foulio",
+		"id": 6,
+		"category": "Accessoires de dessin",
+		"price": 149,
+		"currency": "€"
+	},
+	{
+		"name": "Figurine de collection",
+		"brand": "Pop-pop",
+		"id": 7,
+		"category": "Figurines",
+		"price": 49,
+		"currency": "€"
+	},
+	{
+		"name": "Enceinte Bluetooth",
+		"brand": "Sauny",
+		"id": 8,
+		"category": "Audio portable",
+		"price": 89,
+		"currency": "€"
+	},
+	{
+		"name": "PC portable",
+		"brand": "Samsong",
+		"id": 9,
+		"category": "Ordinateurs",
+		"price": 799,
+		"currency": "€"
+	},
+	{
+		"name": "Livre de cuisine",
+		"brand": "Bayord",
+		"id": 10,
+		"category": "Livres de cuisine",
+		"price": 29,
+		"currency": "€"
+	},
+	{
+		"name": "Lampadaire",
+		"brand": "Filips",
+		"id": 11,
+		"category": "Luminaires",
+		"price": 79,
+		"currency": "€"
+	},
+	{
+		"name": "Console de jeu",
+		"brand": "Samsong",
+		"id": 12,
+		"category": "Jeux vidéo",
+		"price": 349,
+		"currency": "€"
+	},
+	{
+		"name": "Imprimante multifonction",
+		"brand": "Filips",
+		"id": 13,
+		"category": "Impression",
+		"price": 129,
+		"currency": "€"
+	},
+	{
+		"name": "Smartwatch",
+		"brand": "Pear",
+		"id": 14,
+		"category": "Montre connectée",
+		"price": 199,
+		"currency": "€"
+	},
+	{
+		"name": "Machine à café",
+		"brand": "Filips",
+		"id": 15,
+		"category": "Café et thé",
+		"price": 119,
+		"currency": "€"
+	},
+	{
+		"name": "Casque de gaming",
+		"brand": "Samsong",
+		"id": 16,
+		"category": "Accessoires de jeu",
+		"price": 79,
+		"currency": "€"
+	},
+	{
+		"name": "Enceinte HomePome",
+		"brand": "Pear",
+		"id": 17,
+		"category": "Audio connecté",
+		"price": 69,
+		"currency": "€"
+	},
+	{
+		"name": "Peluche licorne",
+		"brand": "Pop-pop",
+		"id": 18,
+		"category": "Jouets",
+		"price": 19,
+		"currency": "€"
+	},
+	{
+		"name": "Ordinateur de bureau",
+		"brand": "Sauny",
+		"id": 19,
+		"category": "Ordinateurs",
+		"price": 899,
+		"currency": "€"
+	},
+	{
+		"name": "Écouteurs sans fil",
+		"brand": "Pear",
+		"id": 20,
+		"category": "Casques & écouteurs",
+		"price": 129,
+		"currency": "€"
+	},
+	{
+		"name": "Théière électrique",
+		"brand": "Samsong",
+		"id": 21,
+		"category": "Café et thé",
+		"price": 49,
+		"currency": "€"
+	},
+	{
+		"name": "Album photo",
+		"brand": "Foulio",
+		"id": 22,
+		"category": "Photos et albums",
+		"price": 24,
+		"currency": "€"
+	},
+	{
+		"name": "Console de jeu rétro",
+		"brand": "Sauny",
+		"id": 23,
+		"category": "Jeux vidéo",
+		"price": 79,
+		"currency": "€"
+	},
+	{
+		"name": "Ampoule connectée",
+		"brand": "Filips",
+		"id": 24,
+		"category": "Maison",
+		"price": 29,
+		"currency": "€"
+	},
+	{
+		"name": "Appareil photo Reeflex",
+		"brand": "Samsong",
+		"id": 25,
+		"category": "Photos et vidéos",
+		"price": 449,
+		"currency": "€"
+	},
+	{
+		"name": "Tombe Raideur",
+		"brand": "Jachette",
+		"id": 26,
+		"category": "Livres de fiction",
+		"price": 12,
+		"currency": "€"
+	},
+	{
+		"name": "Stylo plume",
+		"brand": "Foulio",
+		"id": 27,
+		"category": "Fournitures de bureau",
+		"price": 9,
+		"currency": "€"
+	},
+	{
+		"name": "iGame",
+		"brand": "Pear",
+		"id": 28,
+		"category": "Console",
+		"price": 350,
 		"currency": "€"
 	}
 ]
