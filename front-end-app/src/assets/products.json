@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Casque sans fil",
-		"marque": "Sauny",
+		"brand": "Sauny",
 		"id": 1,
 		"category": "Casques & écouteurs",
 		"price": 299,
@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "Lampe connectée",
-		"marque": "Filips",
+		"brand": "Filips",
 		"id": 2,
 		"category": "Maison",
 		"price": 39,
@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "Ecran de PC",
-		"marque": "Samsong",
+		"brand": "Samsong",
 		"id": 3,
 		"category": "PC & gaming",
 		"price": 199,

@@ -1,6 +1,6 @@
 export interface Product {
 	name: string,
-	marque: string,
+	brand: string,
 	id: number,
 	category: string,
 	price: number,
