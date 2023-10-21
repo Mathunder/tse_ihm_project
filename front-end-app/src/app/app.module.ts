@@ -11,6 +11,7 @@ import { UsersListComponent } from './users-list/users-list.component';
 import { OrdersListComponent } from './orders-list/orders-list.component';
 import { ContactFormComponent } from './contact-form/contact-form.component';
 import { ProductTemplateComponent } from './product-template/product-template.component';
+import { UserTemplateComponent } from './user-template/user-template.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { ProductTemplateComponent } from './product-template/product-template.co
     UsersListComponent,
     OrdersListComponent,
     ContactFormComponent,
-    ProductTemplateComponent
+    ProductTemplateComponent,
+    UserTemplateComponent
   ],
   imports: [
     BrowserModule,

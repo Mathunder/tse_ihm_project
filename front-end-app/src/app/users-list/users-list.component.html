@@ -1,1 +1,2 @@
-<p>users-list works!</p>
+<h1>Retrouve la liste de nos vendeurs partenaires :</h1>
+<app-user-template *ngFor="let currentUser of (users | async)" [user]="currentUser"></app-user-template>
