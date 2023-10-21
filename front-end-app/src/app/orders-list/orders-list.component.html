@@ -1,1 +1,3 @@
-<p>orders-list works!</p>
+<product-template *ngFor="let item of (cart | async)?.items" [product]="item"></product-template>
+<p>{{ (cart | async)?.nb_items }}</p>
+<p>{{ (cart | async)?.total }}</p>
