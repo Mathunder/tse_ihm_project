@@ -15,5 +15,9 @@ span {
 }
 
 #nb_items {
-	
+	color: rgb(153, 153, 153);
+}
+
+#total {
+	font-style: bold;
 }
