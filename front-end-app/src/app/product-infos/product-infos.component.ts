@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
+import { ActivatedRoute, Router } from '@angular/router';
 import { ProductService } from '../services/product.service';
-import { Product } from 'src/interfaces/product';
 
 @Component({
   selector: 'app-product-infos',
@@ -11,12 +10,23 @@ import { Product } from 'src/interfaces/product';
 export class ProductInfosComponent implements OnInit{
 
   product: any;
-  constructor(private route: ActivatedRoute, private productService: ProductService) {}
+  constructor(private route: ActivatedRoute, private router: Router, private productService: ProductService) {}
 
 
   ngOnInit(){
     const productId = +this.route.snapshot.params['id'];
-    this.product = this.productService.getProdutById(productId); 
+    this.productService.getProdutById(productId).subscribe((product) => {
+      this.product = product;
+      console.log('Product:', this.product);
+    });
+  }
+
+  ajoutPanier(): void {
+    alert(this.product.name + ' a été ajouté à votre panier');
+  }
+
+  back(): void {
+    this.router.navigateByUrl(`catalogue`);
   }
  
 }

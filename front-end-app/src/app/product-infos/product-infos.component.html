@@ -1,1 +1,19 @@
-<p>product-infos works!</p>
+<h1>Détail du produit</h1>
+
+
+<div class="product-display" *ngIf="product">
+    <div class="picture">
+        <img [src]="product.imgUrl">
+    </div>
+    <div class="product-infos">
+        <h3>{{ product.name }}</h3>
+        <h2>Vendeur : {{ product.brand | uppercase }}</h2>
+        <p>Catégorie : {{ product.category }}</p>
+        <p>Description du produit : {{ product.info}}</p>
+    </div>
+    <div class="buy">
+        <p>Prix :  {{ product.price }} {{ product.currency }}</p>
+        <button (click)="ajoutPanier()">Ajouter au panier</button>
+        <button (click)="back()">Retour</button>
+    </div>
+</div>

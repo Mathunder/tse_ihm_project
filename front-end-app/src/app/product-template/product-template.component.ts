@@ -22,12 +22,7 @@ export class ProductTemplateComponent implements OnInit {
     alert(this.product.name + ' a été ajouté à votre panier');
   }
   details(){
-    let currentLocation = this.router.url;
-
     this.router.navigateByUrl(`catalogue/${this.product.id}`);
-
-    //alert('détails');
-    //this.router.navigateByUrl(`faceSnaps/${this.faceSnap.id}`);
   }
 
   
