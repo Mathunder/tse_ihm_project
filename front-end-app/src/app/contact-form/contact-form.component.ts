@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./contact-form.component.css']
 })
 export class ContactFormComponent {
+  email: string = '';
+  message: string = '';
 
+  sendMessage(): void {
+    const content = `Email: ${this.email}\nMessage: ${this.message}`;
+    alert(content);
+  }
 }

@@ -1,5 +1,16 @@
-<p>{{ product.name }}</p>
-<p>{{ product.brand }}</p>
-<p>{{ product.id }}</p>
-<p>{{ product.category }}</p>
-<p>{{ product.price }} {{ product.currency }}</p>
+<div class="product-display">
+    <div class="picture">
+
+    </div>
+    <div class="product-infos">
+        <h1>{{ product.name }}</h1>
+        <h2>{{ product.brand | uppercase }}</h2>
+        <p>{{ product.category }}</p>
+    </div>
+    <div class="buy">
+        <p>{{ product.price }} {{ product.currency }}</p>
+    </div>
+</div>
+
+
+

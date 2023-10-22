@@ -1,1 +1,11 @@
-<p>contact-form works!</p>
+<div id="form-container">
+  <div id="form">
+    <label id="email">Email :</label>
+    <input type="email" id="email_text" [(ngModel)]="email" required>
+
+    <label id="message">Message :</label>
+    <textarea id="message_text" [(ngModel)]="message" required></textarea>
+
+    <button (click)="sendMessage()">Envoyer</button>
+  </div>
+</div>

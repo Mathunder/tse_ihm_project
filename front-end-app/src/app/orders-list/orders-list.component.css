@@ -1,0 +1,23 @@
+.products, #line {
+	display: flex;
+	justify-content: center;
+}
+
+span {
+	background-color: black;
+	border-radius: 10px;
+	border: 1px solid black;
+	width: 98vw;
+}
+
+#nb_items, #total {
+	margin-left: 2vw;
+}
+
+#nb_items {
+	color: rgb(153, 153, 153);
+}
+
+#total {
+	font-style: bold;
+}

@@ -1,3 +1,10 @@
-<product-template *ngFor="let item of (cart | async)?.items" [product]="item"></product-template>
-<p>{{ (cart | async)?.nb_items }}</p>
-<p>{{ (cart | async)?.total }}</p>
+<h1>Votre panier</h1>
+
+<product-template class="products" *ngFor="let item of (cart | async)?.items" [product]="item"></product-template>
+<div id="summary">
+	<div id="line">
+		<span></span>
+	</div>
+	<p id="nb_items">Nombre d'articles : {{ (cart | async)?.nb_items }}</p>
+	<p id="total">Total : {{ (cart | async)?.total }} €</p>
+</div>

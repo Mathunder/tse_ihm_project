@@ -1,0 +1,43 @@
+#form-container {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+#form {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+
+#message_text, #email_text {
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+  max-width: 90%;
+  min-width: 90%;
+  width: 90%;
+  border: 1px solid rgb(189, 189, 189);
+  border-radius: 5px;
+}
+
+#message_text {
+  text-wrap: wrap;
+}
+
+button {
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+  width: 90px;
+  border: 1px solid rgb(189, 189, 189);
+  border-radius: 100px;
+  background-color: white;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #f2d429;
+}
