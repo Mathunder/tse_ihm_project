@@ -7,7 +7,7 @@
 		"category": "Casques & écouteurs",
 		"price": 299,
 		"currency": "€",
-		"infos": "Casque sans fil fonctionnant en Bluetooth. Environ 4h d'écoute en une charge.",
+		"infos": "Le casque sans fil de la marque Sauny est un accessoire de haute qualité pour les amateurs de musique et les utilisateurs de smartphones. Il fonctionne en utilisant la technologie Bluetooth, ce qui signifie qu'il peut se connecter sans fil à votre appareil, que ce soit un smartphone, une tablette ou un autre dispositif compatible Bluetooth. Il offre une autonomie d'environ 4 heures d'écoute en une seule charge, ce qui en fait un choix idéal pour les déplacements et les longs trajets. Vous pouvez utiliser ce casque pour profiter de votre musique préférée, des podcasts ou même pour prendre des appels téléphoniques grâce à sa fonction de communication mains libres. Garantie 2 ans.",
 		"imgUrl": "https://i.ibb.co/NmThjTq/Jabra-Elite-45h-Casque-sans-fil-Bleu.jpg"
 	},
 	{
@@ -17,6 +17,7 @@
 		"category": "Maison",
 		"price": 39,
 		"currency": "€",
+		"info": "Le projecteur d'ambiance Filips crée une atmosphère relaxante et apaisante dans votre maison. Il projette des motifs lumineux et colorés sur les murs et le plafond, offrant une ambiance unique pour vos soirées et moments de détente. Garantie 1an.",
 		"imgUrl": "https://i.ibb.co/mqgcyWg/images.jpg"
 	},
 	{
@@ -26,6 +27,7 @@
 		"category": "PC & gaming",
 		"price": 199,
 		"currency": "€",
+		"info": "L'écran de PC Samsong offre une expérience visuelle exceptionnelle pour les amateurs de jeux et de productivité. Avec des couleurs vives, une résolution élevée et un temps de réponse rapide, il est parfait pour les jeux et le travail. Profitez de chaque détail avec cet écran de qualité. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/LRwwKZZ/images-12.jpg"
 	},
 	{
@@ -35,6 +37,7 @@
 		"category": "Téléphones",
 		"price": 599,
 		"currency": "€",
+        "info": "Le smartphone Pear est un compagnon idéal pour la vie moderne. Avec son superbe écran et ses performances de pointe, restez connecté, productif et divertissez-vous où que vous soyez. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/GVLzRgj/images-2.jpg"
 	},
 	{
@@ -44,6 +47,7 @@
 		"category": "Livres",
 		"price": 19,
 		"currency": "€",
+		"info": "Découvrez le livre 'Le nouvel ami d'Elmer' de Jachette. Plongez dans une histoire captivante qui ravira les lecteurs de tous âges. Un récit inoubliable. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/BqVtScj/images-3.jpg"
 	},
 	{
@@ -53,6 +57,7 @@
 		"category": "Accessoires de dessin",
 		"price": 149,
 		"currency": "€",
+		"info": "La tablette graphique Foulio est l'outil ultime pour les artistes et les créateurs. Sa précision exceptionnelle révolutionne le dessin numérique. Exprimez-vous avec style. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/BnNKMVN/LD0005166942-2.jpg"
 	},
 	{
@@ -62,6 +67,7 @@
 		"category": "Figurines",
 		"price": 49,
 		"currency": "€",
+		"info": "La figurine 'Black miaou' de la marque Pop-pop est une pièce de collection fascinante. Avec des détails exquis et une finition impeccable, cette figurine est un trésor pour les amateurs de figurines.",
 		"imgUrl":"https://i.ibb.co/W2NbDjG/images-4.jpg"
 	},
 	{
@@ -71,6 +77,7 @@
 		"category": "Figurines",
 		"price": 49,
 		"currency": "€",
+		"info": "Découvrez la figurine 'Marthor' de la marque Pop-pop. Cette pièce de collection vous emmène dans un univers mystérieux. Les finitions de haute qualité et les détails fascinants la rendent incontournable.",
 		"imgUrl":"https://i.ibb.co/y60Sbrz/images-5.jpg"
 	},
 	{
@@ -80,6 +87,7 @@
 		"category": "Figurines",
 		"price": 49,
 		"currency": "€",
+		"info": "La figurine 'Docstrange' de la marque Pop-pop est une œuvre d'art miniature pleine d'énigme. Elle incarne l'étrange et le mystérieux, captivant les collectionneurs. Les finitions minutieuses en font un objet de convoitise.",
 		"imgUrl":"https://i.ibb.co/2Y9XKzD/images-6.jpg"
 	},
 	{
@@ -89,6 +97,7 @@
 		"category": "Figurines",
 		"price": 49,
 		"currency": "€",
+		"info": "La figurine 'Redsteel' de la marque Pop-pop est une pièce de collection unique. Elle incarne un personnage puissant et mystérieux avec des détails impressionnants. Parfaite pour les amateurs de figurines.",
 		"imgUrl":"https://i.ibb.co/vxrKfN3/images-7.jpg"
 	},
 	{
@@ -98,6 +107,7 @@
 		"category": "Audio portable",
 		"price": 89,
 		"currency": "€",
+		"info": "L'enceinte Bluetooth Sauny offre un son de haute qualité dans un format portable. Idéale pour la musique en déplacement, les appels mains libres et plus encore. Une expérience audio exceptionnelle. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/4Rzcp5D/e3077d0453144ccb9acd0e3b811b55c6.jpg"
 	},
 	{
@@ -107,6 +117,7 @@
 		"category": "Ordinateurs",
 		"price": 799,
 		"currency": "€",
+		"info": "Le PC portable Samsong est une machine puissante et polyvalente. Avec des performances exceptionnelles, il est idéal pour le travail et les loisirs. Une solution tout-en-un. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/bPHb7xK/71-3o-OMogw-L-AC-UF1000-1000-QL80.jpg"
 	},
 	{
@@ -116,6 +127,7 @@
 		"category": "Livres de cuisine",
 		"price": 29,
 		"currency": "€",
+		"info": "Le livre de cuisine de Bayord est une source d'inspiration pour les chefs en herbe. Découvrez des recettes délicieuses et des conseils culinaires pour des plats savoureux. Un incontournable pour les passionnés de cuisine.",
 		"imgUrl":"https://i.ibb.co/C931MVX/9782501163774-001-X-jpeg.webp"
 	},
 	{
@@ -125,6 +137,7 @@
 		"category": "Luminaires",
 		"price": 79,
 		"currency": "€",
+		"info": "Le lampadaire Filips ajoute une touche d'élégance à votre espace. Offrant un éclairage doux et chaleureux, il crée une ambiance relaxante dans votre maison. Un luminaire à la fois fonctionnel et esthétique.",
 		"imgUrl":"https://i.ibb.co/DrNcdcN/a221801abf5ec8f1293a67093aad8551-jpg.webp"
 	},
 	{
@@ -134,6 +147,7 @@
 		"category": "Jeux vidéo",
 		"price": 349,
 		"currency": "€",
+		"info": "La console de jeux vidéo Galaxy Play de Samsong offre une expérience de jeu exceptionnelle. Profitez de jeux immersifs, de graphismes époustouflants et d'une jouabilité fluide. Une aventure de jeu inoubliable. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/CwgwtxD/Samsung-Consolor-HD3-Lakay-3.jpg"
 	},
 	{
@@ -143,6 +157,7 @@
 		"category": "Impression",
 		"price": 129,
 		"currency": "€",
+		"info": "L'imprimante multifonction de Filips est l'outil idéal pour les besoins d'impression à domicile. Imprimez, numérisez et copiez avec facilité. Une solution polyvalente pour toutes vos tâches d'impression. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/4syHM4W/images-8.jpg"
 	},
 	{
@@ -152,6 +167,7 @@
 		"category": "Montre connectée",
 		"price": 199,
 		"currency": "€",
+		"info": "La smartwatch Pear est la montre connectée par excellence. Suivez votre activité, consultez vos notifications et personnalisez votre style. Restez connecté avec style et fonctionnalité. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/Vtsnksn/montre-connectee-smartwatch-blackview-r3pro-blueto-jpg.webp"
 	},
 	{
@@ -161,6 +177,7 @@
 		"category": "Café et thé",
 		"price": 119,
 		"currency": "€",
+		"info": "La machine à café de Filips vous offre une tasse de café parfaite à chaque fois. Découvrez l'art du café à domicile. Préparez des boissons délicieuses avec facilité. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/wYTVQyP/c43b39e92eb5460cbea9413aef678812-image.webp"
 	},
 	{
@@ -170,6 +187,7 @@
 		"category": "Accessoires de jeu",
 		"price": 79,
 		"currency": "€",
+		"info": "Le casque de gaming Samsong est l'accessoire ultime pour les joueurs. Plongez dans un son surround immersif et communiquez avec votre équipe. Une expérience de jeu supérieure. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/9yV0BBx/e45086c956e94ec1bf52c8e8d7600e2a-image.webp"
 	},
 	{
@@ -179,6 +197,7 @@
 		"category": "Audio connecté",
 		"price": 69,
 		"currency": "€",
+		"info": "L'enceinte HomePome de Pear est un bijou de son et de design. Écoutez de la musique en streaming, contrôlez votre maison connectée et profitez d'une qualité audio exceptionnelle. Une enceinte intelligente qui sait se faire entendre. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/Rjmz2xp/images-9.jpg"
 	},
 	{
@@ -188,6 +207,7 @@
 		"category": "Jouets",
 		"price": 19,
 		"currency": "€",
+		"info": "La peluche licorne de Pop-pop est le compagnon idéal pour les enfants. Douce et magique, elle apporte confort et réconfort. Offrez un ami en peluche qui fera le bonheur de votre enfant. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/ThRRtFh/1986-xl.jpg"
 	},
 	{
@@ -197,6 +217,7 @@
 		"category": "Ordinateurs",
 		"price": 899,
 		"currency": "€",
+		"info": "L'ordinateur iMok de Pear est une puissance compacte. Avec des performances élevées, il répond à tous vos besoins informatiques. Créez, travaillez et divertissez-vous avec ce PC polyvalent. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/YNYhK3m/mg-bbdc7083-4478-40d0-b2b0.jpg"
 	},
 	{
@@ -206,6 +227,7 @@
 		"category": "Casques & écouteurs",
 		"price": 129,
 		"currency": "€",
+		"info": "Les écouteurs sans fil de Pear offrent une expérience audio sans contraintes. Profitez de la liberté de mouvement tout en écoutant de la musique ou en prenant des appels. Un son clair et des basses profondes vous accompagnent partout. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/nm8Zqxp/829x1200.jpg"
 	},
 	{
@@ -215,6 +237,7 @@
 		"category": "Café et thé",
 		"price": 49,
 		"currency": "€",
+		"info": "La théière électrique de Samsong rend la préparation du thé rapide et facile. Contrôlez la température et l'infusion pour des boissons parfaites. Un appareil essentiel pour les amateurs de thé. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/Yjvh0hv/1574404492-65.jpg"
 	},
 	{
@@ -224,6 +247,7 @@
 		"category": "Photos et albums",
 		"price": 24,
 		"currency": "€",
+		"info": "L'album photo de Foulio est un moyen élégant de conserver vos précieux souvenirs. Créez des collections de photos magnifiques et partagez vos histoires. Un moyen intemporel de revivre vos moments spéciaux. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/tbcFPXv/album-photo-spirales-30-x-30-cm-gris-walther.jpg"
 	},
 	{
@@ -233,6 +257,7 @@
 		"category": "Jeux vidéo",
 		"price": 79,
 		"currency": "€",
+		"info": "La console de jeu rétro de Sauny vous transporte dans le passé avec une sélection de jeux classiques. Plongez dans la nostalgie du jeu vidéo et redécouvrez des titres emblématiques. Un voyage ludique dans le temps. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/4dc9v1S/images-10.jpg"
 	},
 	{
@@ -242,6 +267,7 @@
 		"category": "Maison",
 		"price": 29,
 		"currency": "€",
+		"info": "L'ampoule connectée de Filips apporte une ambiance lumineuse personnalisée à votre espace. Contrôlez l'éclairage depuis votre smartphone et créez des scènes lumineuses uniques. Une façon intelligente d'éclairer votre vie. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/J2NSkY0/HQX12-AV3.jpg"
 	},
 	{
@@ -251,6 +277,7 @@
 		"category": "Photos et vidéos",
 		"price": 449,
 		"currency": "€",
+		"info": "L'appareil photo Reeflex de Samsong est un outil puissant pour capturer des moments précieux. Avec une qualité d'image exceptionnelle et des fonctionnalités avancées, il vous permet de créer des souvenirs inoubliables. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/ZHTWJvB/images-11.jpg"
 	},
 	{
@@ -260,6 +287,7 @@
 		"category": "Livres de fiction",
 		"price": 12,
 		"currency": "€",
+		"info": "Le livre 'Tombe Raideur' de Jachette est une aventure captivante qui vous emmène dans le monde de l'exploration. Plongez dans l'action, résolvez des énigmes et découvrez des secrets. Un récit palpitant pour les amateurs d'aventure. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/54Xb7QQ/l-histoire-de-tomb-raider-atlantis-edition-jpg.webp"
 	},
 	{
@@ -269,6 +297,7 @@
 		"category": "Fournitures de bureau",
 		"price": 9,
 		"currency": "€",
+		"info": "Le stylo plume de Foulio est un outil d'écriture élégant et raffiné. Avec un design intemporel et un flux d'encre fluide, il ajoute une touche de classe à chaque mot. Écrivez avec style. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/cx8HCYJ/71-X-tj-Z0-Oh-L.jpg"
 	},
 	{
@@ -278,6 +307,7 @@
 		"category": "Console",
 		"price": 550,
 		"currency": "€",
+		"info": "La console iGame de Pear est une passerelle vers l'univers du jeu. Plongez dans des mondes virtuels, défiez vos amis et explorez des aventures épiques. Une expérience de jeu inégalée. Garantie 2 ans.",
 		"imgUrl":"https://i.ibb.co/x3Q1ZHd/1652312706-Apple-Handheld-Game-Console-3.jpg"
 	}
 ]
