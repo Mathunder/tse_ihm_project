@@ -13,6 +13,7 @@ import { OrdersListComponent } from './orders-list/orders-list.component';
 import { ContactFormComponent } from './contact-form/contact-form.component';
 import { ProductTemplateComponent } from './product-template/product-template.component';
 import { UserTemplateComponent } from './user-template/user-template.component';
+import { ProductInfosComponent } from './product-infos/product-infos.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { UserTemplateComponent } from './user-template/user-template.component';
     OrdersListComponent,
     ContactFormComponent,
     ProductTemplateComponent,
-    UserTemplateComponent
+    UserTemplateComponent,
+    ProductInfosComponent
   ],
   imports: [
     BrowserModule,
