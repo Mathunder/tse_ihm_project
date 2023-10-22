@@ -1,6 +1,6 @@
 <div class="product-display">
     <div class="picture">
-
+        <img [src]="product.imgUrl">
     </div>
     <div class="product-infos">
         <h1>{{ product.name }}</h1>
@@ -9,6 +9,8 @@
     </div>
     <div class="buy">
         <p>{{ product.price }} {{ product.currency }}</p>
+        <button (click)="details()">Détails du produit</button>
+        <button (click)="ajoutPanier()">Ajouter au panier</button>
     </div>
 </div>
 

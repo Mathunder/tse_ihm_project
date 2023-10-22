@@ -4,5 +4,6 @@ export interface Product {
 	id: number,
 	category: string,
 	price: number,
-	currency: string
+	currency: string,
+	imgUrl: string
 }

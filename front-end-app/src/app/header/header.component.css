@@ -1,15 +1,16 @@
 header {
     text-align: center;
     background-color: #f2d429;
-    margin-bottom: 20px;
-    padding: 10px;
+    margin-bottom: 5px;
+    padding: 5px;
 }
 
 a {
-    margin: 0 10px;
+    margin: 0 30px;
     color: #000000;
     text-decoration: none;
     font-family:'Trebuchet MS';
+    font-size: 22px;
     &:hover {
         text-decoration: underline overline;
     }
@@ -23,4 +24,5 @@ a.active {
 h1{
     font-family:'Arial Black';
     font-style: oblique;
+    font-size: 40px;
 }

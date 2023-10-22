@@ -5,6 +5,7 @@
     margin: 20px auto;
     padding: 10px 30px;
     box-shadow: lightgray 4px 4px 20px;
+    display: flex;
 
     button {
       background-color: transparent;
@@ -23,14 +24,46 @@
     }
 }
 
+.picture{
+  flex: 20%;
+  padding-right: 20px;
+
+}
+.product-infos{
+  flex:40%;
+}
+.buy{
+  display: flex;
+  flex-direction: column;
+  flex:20%;
+  text-align: right;
+  align-items:end;
+  font-size: 28px;
+}
+button {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-top: 10px;
+
+  width: 180px;
+  border: 1px solid rgb(189, 189, 189);
+  border-radius: 100px;
+  background-color: white;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #f2d429;
+}
+
 img {
 width: 100%;
+max-width: 150px;
 }
 h1 {
 font-family:'Trebuchet MS';
 }
 p {
 font-weight: 300;
-font-size: 18px;
 font-family:'Courier New', Courier, monospace;
 }

@@ -6,15 +6,18 @@
 		"id": 1,
 		"category": "Casques & écouteurs",
 		"price": 299,
-		"currency": "€"
+		"currency": "€",
+		"infos": "Casque sans fil fonctionnant en Bluetooth. Environ 4h d'écoute en une charge.",
+		"imgUrl": "https://i.ibb.co/NmThjTq/Jabra-Elite-45h-Casque-sans-fil-Bleu.jpg"
 	},
 	{
-		"name": "Lampe connectée",
+		"name": "Projecteur d'ambiance",
 		"brand": "Filips",
 		"id": 2,
 		"category": "Maison",
 		"price": 39,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl": "https://i.ibb.co/mqgcyWg/images.jpg"
 	},
 	{
 		"name": "Ecran de PC",
@@ -22,7 +25,8 @@
 		"id": 3,
 		"category": "PC & gaming",
 		"price": 199,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/LRwwKZZ/images-12.jpg"
 	},
 	{
 		"name": "Smartphone",
@@ -30,15 +34,17 @@
 		"id": 4,
 		"category": "Téléphones",
 		"price": 599,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/GVLzRgj/images-2.jpg"
 	},
 	{
-		"name": "Livres pour enfants",
+		"name": "Le nouvel ami d'Elmer",
 		"brand": "Jachette",
 		"id": 5,
 		"category": "Livres",
 		"price": 19,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/BqVtScj/images-3.jpg"
 	},
 	{
 		"name": "Tablette graphique",
@@ -46,15 +52,44 @@
 		"id": 6,
 		"category": "Accessoires de dessin",
 		"price": 149,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/BnNKMVN/LD0005166942-2.jpg"
 	},
 	{
-		"name": "Figurine de collection",
+		"name": "Black miaou",
 		"brand": "Pop-pop",
 		"id": 7,
 		"category": "Figurines",
 		"price": 49,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/W2NbDjG/images-4.jpg"
+	},
+	{
+		"name": "Marthor",
+		"brand": "Pop-pop",
+		"id": 7,
+		"category": "Figurines",
+		"price": 49,
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/y60Sbrz/images-5.jpg"
+	},
+	{
+		"name": "Docstrange",
+		"brand": "Pop-pop",
+		"id": 7,
+		"category": "Figurines",
+		"price": 49,
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/2Y9XKzD/images-6.jpg"
+	},
+	{
+		"name": "Redsteel",
+		"brand": "Pop-pop",
+		"id": 7,
+		"category": "Figurines",
+		"price": 49,
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/vxrKfN3/images-7.jpg"
 	},
 	{
 		"name": "Enceinte Bluetooth",
@@ -62,7 +97,8 @@
 		"id": 8,
 		"category": "Audio portable",
 		"price": 89,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/4Rzcp5D/e3077d0453144ccb9acd0e3b811b55c6.jpg"
 	},
 	{
 		"name": "PC portable",
@@ -70,7 +106,8 @@
 		"id": 9,
 		"category": "Ordinateurs",
 		"price": 799,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/bPHb7xK/71-3o-OMogw-L-AC-UF1000-1000-QL80.jpg"
 	},
 	{
 		"name": "Livre de cuisine",
@@ -78,7 +115,8 @@
 		"id": 10,
 		"category": "Livres de cuisine",
 		"price": 29,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/C931MVX/9782501163774-001-X-jpeg.webp"
 	},
 	{
 		"name": "Lampadaire",
@@ -86,15 +124,17 @@
 		"id": 11,
 		"category": "Luminaires",
 		"price": 79,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/DrNcdcN/a221801abf5ec8f1293a67093aad8551-jpg.webp"
 	},
 	{
-		"name": "Console de jeu",
+		"name": "Galaxy Play",
 		"brand": "Samsong",
 		"id": 12,
 		"category": "Jeux vidéo",
 		"price": 349,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/CwgwtxD/Samsung-Consolor-HD3-Lakay-3.jpg"
 	},
 	{
 		"name": "Imprimante multifonction",
@@ -102,7 +142,8 @@
 		"id": 13,
 		"category": "Impression",
 		"price": 129,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/4syHM4W/images-8.jpg"
 	},
 	{
 		"name": "Smartwatch",
@@ -110,7 +151,8 @@
 		"id": 14,
 		"category": "Montre connectée",
 		"price": 199,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/Vtsnksn/montre-connectee-smartwatch-blackview-r3pro-blueto-jpg.webp"
 	},
 	{
 		"name": "Machine à café",
@@ -118,7 +160,8 @@
 		"id": 15,
 		"category": "Café et thé",
 		"price": 119,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/wYTVQyP/c43b39e92eb5460cbea9413aef678812-image.webp"
 	},
 	{
 		"name": "Casque de gaming",
@@ -126,7 +169,8 @@
 		"id": 16,
 		"category": "Accessoires de jeu",
 		"price": 79,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/9yV0BBx/e45086c956e94ec1bf52c8e8d7600e2a-image.webp"
 	},
 	{
 		"name": "Enceinte HomePome",
@@ -134,7 +178,8 @@
 		"id": 17,
 		"category": "Audio connecté",
 		"price": 69,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/Rjmz2xp/images-9.jpg"
 	},
 	{
 		"name": "Peluche licorne",
@@ -142,15 +187,17 @@
 		"id": 18,
 		"category": "Jouets",
 		"price": 19,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/ThRRtFh/1986-xl.jpg"
 	},
 	{
-		"name": "Ordinateur de bureau",
-		"brand": "Sauny",
+		"name": "iMok",
+		"brand": "Pear",
 		"id": 19,
 		"category": "Ordinateurs",
 		"price": 899,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/YNYhK3m/mg-bbdc7083-4478-40d0-b2b0.jpg"
 	},
 	{
 		"name": "Écouteurs sans fil",
@@ -158,7 +205,8 @@
 		"id": 20,
 		"category": "Casques & écouteurs",
 		"price": 129,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/nm8Zqxp/829x1200.jpg"
 	},
 	{
 		"name": "Théière électrique",
@@ -166,7 +214,8 @@
 		"id": 21,
 		"category": "Café et thé",
 		"price": 49,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/Yjvh0hv/1574404492-65.jpg"
 	},
 	{
 		"name": "Album photo",
@@ -174,7 +223,8 @@
 		"id": 22,
 		"category": "Photos et albums",
 		"price": 24,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/tbcFPXv/album-photo-spirales-30-x-30-cm-gris-walther.jpg"
 	},
 	{
 		"name": "Console de jeu rétro",
@@ -182,7 +232,8 @@
 		"id": 23,
 		"category": "Jeux vidéo",
 		"price": 79,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/4dc9v1S/images-10.jpg"
 	},
 	{
 		"name": "Ampoule connectée",
@@ -190,7 +241,8 @@
 		"id": 24,
 		"category": "Maison",
 		"price": 29,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/J2NSkY0/HQX12-AV3.jpg"
 	},
 	{
 		"name": "Appareil photo Reeflex",
@@ -198,7 +250,8 @@
 		"id": 25,
 		"category": "Photos et vidéos",
 		"price": 449,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/ZHTWJvB/images-11.jpg"
 	},
 	{
 		"name": "Tombe Raideur",
@@ -206,7 +259,8 @@
 		"id": 26,
 		"category": "Livres de fiction",
 		"price": 12,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/54Xb7QQ/l-histoire-de-tomb-raider-atlantis-edition-jpg.webp"
 	},
 	{
 		"name": "Stylo plume",
@@ -214,14 +268,16 @@
 		"id": 27,
 		"category": "Fournitures de bureau",
 		"price": 9,
-		"currency": "€"
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/cx8HCYJ/71-X-tj-Z0-Oh-L.jpg"
 	},
 	{
 		"name": "iGame",
 		"brand": "Pear",
 		"id": 28,
 		"category": "Console",
-		"price": 350,
-		"currency": "€"
+		"price": 550,
+		"currency": "€",
+		"imgUrl":"https://i.ibb.co/x3Q1ZHd/1652312706-Apple-Handheld-Game-Console-3.jpg"
 	}
 ]

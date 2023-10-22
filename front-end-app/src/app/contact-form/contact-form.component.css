@@ -1,7 +1,14 @@
+h1{
+  font-family:'Arial';
+  font-size: 30px;
+  margin-left: 1em;
+}
+
 #form-container {
   margin-top: 50px;
   display: flex;
   justify-content: center;
+  font-family: 'Arial';
 }
 
 #form {
