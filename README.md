@@ -1,7 +1,10 @@
-# ihm_project
+<div align="center">
+  <img src="./front-end-app/ressources/shopping-cart.png" width="100" height="100">
+  <h1>HMI Project</h1>
+</div>
 
 This repository is a school assignement.
-This project is realised by Matthieu D'Hoop and Clément Dauriat.
+This project is realised by Matthieu d'Hoop and Clément Dauriat.
 
 ## Subject
 
