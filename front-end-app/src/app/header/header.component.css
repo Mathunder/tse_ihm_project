@@ -1,9 +1,10 @@
 header {
-    text-align: center;
+    display: flex;
+    align-items: end;
+    flex-direction: row;
     background-color: #f2d429;
-    margin-bottom: 5px;
     padding: 5px;
-    padding-bottom: 30px;
+    padding-bottom: 10px;
 }
 
 ul {
@@ -60,8 +61,7 @@ a.active {
     color: white;
 }
 
-h1 {
-    font-family: 'Arial Black';
-    font-style: oblique;
-    font-size: 40px;
+img{
+    margin-top: 5px;
+    width: 80px;
 }
