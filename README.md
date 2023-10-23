@@ -4,7 +4,9 @@
 </div>
 
 This repository is a school assignement.
-This project is realised by Matthieu d'Hoop and Clément Dauriat.
+This project is developped by Matthieu d'Hoop and Clément Dauriat.
+
+
 
 ## Subject
 
