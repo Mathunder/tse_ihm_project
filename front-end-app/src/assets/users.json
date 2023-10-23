@@ -2,49 +2,49 @@
 	{
 		"name": "Samsong",
 		"id": 1,
-        "country": "Chine",
+		"country": "Chine",
 		"category": "Appareils électroniques"
 	},
-    {
+	{
 		"name": "Sauny",
 		"id": 2,
-        "country": "Japon",
+		"country": "Japon",
 		"category": "Appareils audio"
 	},
-    {
+	{
 		"name": "Filips",
 		"id": 3,
-        "country": "France",
+		"country": "France",
 		"category": "Appareils électroniques"
 	},
-    {
+	{
 		"name": "Pear",
 		"id": 4,
-        "country": "Etats-Unis",
+		"country": "Etats-Unis",
 		"category": "Appareils électroniques"
 	},
-    {
-		"name": "bayord",
+	{
+		"name": "Bayord",
 		"id": 5,
-        "country": "France",
+		"country": "France",
 		"category": "Livre"
 	},
-    {
+	{
 		"name": "Jachette",
 		"id": 6,
-        "country": "France",
+		"country": "France",
 		"category": "Livre"
 	},
-    {
+	{
 		"name": "Foulio",
 		"id": 7,
-        "country": "France",
+		"country": "France",
 		"category": "Livre"
 	},
-    {
+	{
 		"name": "Pop-pop",
 		"id": 8,
-        "country": "Japon",
+		"country": "Japon",
 		"category": "Figurine"
 	}
 ]

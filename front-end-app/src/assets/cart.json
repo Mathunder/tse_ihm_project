@@ -1,22 +1,26 @@
 {
 	"items": [
 		{
-			"name": "Casque sans fil",
-			"brand": "Sauny",
-			"id": 1,
-			"category": "Casques & écouteurs",
-			"price": 299,
-			"currency": "€"
+			"name": "Marthor",
+			"brand": "Pop-pop",
+			"id": 7,
+			"category": "Figurines",
+			"price": 49,
+			"currency": "€",
+			"info": "Découvrez la figurine 'Marthor' de la marque Pop-pop. Cette pièce de collection vous emmène dans un univers mystérieux. Les finitions de haute qualité et les détails fascinants la rendent incontournable.",
+			"imgUrl":"https://i.ibb.co/y60Sbrz/images-5.jpg"
 		},
 		{
-			"name": "Lampe connectée",
-			"brand": "Filips",
-			"id": 2,
-			"category": "Maison",
-			"price": 39,
-			"currency": "€"
+			"name": "iGame",
+			"brand": "Pear",
+			"id": 28,
+			"category": "Console",
+			"price": 550,
+			"currency": "€",
+			"info": "La console iGame de Pear est une passerelle vers l'univers du jeu. Plongez dans des mondes virtuels, défiez vos amis et explorez des aventures épiques. Une expérience de jeu inégalée. Garantie 2 ans.",
+			"imgUrl":"https://i.ibb.co/x3Q1ZHd/1652312706-Apple-Handheld-Game-Console-3.jpg"
 		}
 	],
 	"nb_items": 2,
-	"total": 338
+	"total": 599
 }

@@ -1,5 +1,8 @@
-<p>{{ user.name }}</p>
-<p>{{ user.id }}</p>
-<p>{{ user.country }}</p>
-<p>{{ user.category }}</p>
-
+<div id="user-display">
+	<div id="user-infos">
+		<h1>{{ user.name }}</h1>
+		<p id="country">{{ user.country }}</p>
+		<p id="category">{{ user.category }}</p>
+	</div>
+	<p id="id">id : {{ user.id }}</p>
+</div>

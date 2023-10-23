@@ -1,0 +1,28 @@
+#user-display{
+	box-sizing: border-box;
+	width: 90%;
+	margin: 20px auto;
+	padding: 10px 30px;
+	box-shadow: lightgray 4px 4px 20px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.user-infos{
+flex:40%;
+}
+
+h1 {
+font-family:'Trebuchet MS';
+}
+
+p {
+font-weight: 300;
+font-family:'Courier New', Courier, monospace;
+}
+
+#id {
+	display: flex;
+	align-items: end;
+	color: rgb(178, 178, 178);
+}

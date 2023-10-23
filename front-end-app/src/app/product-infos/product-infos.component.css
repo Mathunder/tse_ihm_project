@@ -58,12 +58,18 @@ button:hover {
 
 img {
 width: 100%;
-margin-left: 80px;
 max-width: 150px;
 }
-h1 {
-font-family:'Trebuchet MS';
+h1{
+    font-family:'Arial';
+    font-size: 30px;
+    margin-left: 1em;
 }
+h3{
+    font-family:'Arial';
+    font-size: 30px;
+}
+
 p {
 font-weight: 300;
 font-family:'Courier New', Courier, monospace;
